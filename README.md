@@ -2,6 +2,8 @@
 
 ### Android Developer · Kotlin · Jetpack Compose
 
+🌐 **Portfolio & Resume:** [kobych.github.io](https://kobych.github.io/)
+
 I'm an Android developer focused on building modern native applications with **Kotlin** and the Android Jetpack ecosystem.
 
 I enjoy working on application architecture, UI with Jetpack Compose, local persistence, networking, asynchronous programming, and writing maintainable, testable Android code.
