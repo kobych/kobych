@@ -2,7 +2,7 @@
 
 ### Android Developer · Kotlin · Jetpack Compose
 
-🌐 **Portfolio & Resume:** [kobych.github.io](https://kobych.github.io/) · **LinkedIn:** [linkedin.com/in/aleksandr-zinovev](https://www.linkedin.com/in/aleksandr-zinovev-5bba13447/)
+🌐 **Portfolio & Resume:** [kobych.github.io](https://kobych.github.io/) · **LinkedIn:** [linkedin.com/in/kobych](https://www.linkedin.com/in/kobych/)
 
 I'm an Android developer focused on building modern native applications with **Kotlin** and the Android Jetpack ecosystem.
 
